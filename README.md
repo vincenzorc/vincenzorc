@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm vincenzo ranalli</h1>
 <h3 align="center">A passionate developer from Venezuela</h3>
-🔭 I’m currently working on Sistema de citas médicas<br>🌱 I’m currently learning Laravel and Git<br>
+🔭 I’m currently learning<br>
 
 
 # 💻 Tech Stack:
