@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vincenzo Ranalli and I'm a Junior Developer from Venezuela</p>
+<p align="left">My name is Vincenzo Ranalli and I'm a Developer from Venezuela</p>
 
 ###
 
